@@ -54,6 +54,7 @@ On the Mix1/Mix2 dataset, batch_size=10.
 We provide our trained model on Mocap_UMPM, you can download it from [Google Drive](https://drive.google.com/file/d/1UfQVQPFDW8PURsqRnk45loR1uMUi10iF/view?usp=sharing) and put it in logs directory.
 
 # GCINet model
+Title: GCINet: Geometric Constraint-Driven Human Collective Interaction Inference for Enhanced Multi-Person 3D Motion Prediction.
 Based on the previous model, improvements have been made by incorporating geometric constraints for interactive perception reasoning, enabling the discrimination of interaction relationships in a broader sense.
 
 ## Requirements
