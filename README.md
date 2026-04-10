@@ -41,6 +41,8 @@ project_folder/
 For training on Mocap_UMPM dataset, you can run 
 `python train.py`.
 
+The relevant parameter settings are all in the /utils/config_UMPM.py file.
+
 ## Test
 We provide the evaluation code on the Mocap_UMPM dataset, you can run 
 `python test.py`.
