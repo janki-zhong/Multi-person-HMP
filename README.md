@@ -74,13 +74,17 @@ project_folder/
 │   ├── ...
 ├── utils/
 │   ├── ...
-├── train.py
-├── test.py
+├── train_short.py
+├── test_short.py
+├── train_long.py
+├── test_long.py
+├── train_FBINet.py
+├── test_ablation.py
 ```
 
 ## Train
-For training on Mocap_UMPM dataset, you can run 
-`python train.py`.
+For training on Mocap_UMPM dataset, you can run `python train_short.py` for short-term prediction.
+You can run `python train_long.py` for long-term prediction.
 
 ## Test
 We provide the evaluation code on the Mocap_UMPM dataset, you can run 
