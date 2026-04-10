@@ -2,7 +2,7 @@
 Multi-person HMP-xinyi
 
 # FBINet model
-Title：Fine-Grained Behavior Interaction-Aware Network for Efficient Multi-Person Motion Forecasting。In Multimedia Systems 2026.
+Title：Fine-Grained Behavior Interaction-Aware Network for Efficient Multi-Person Motion Forecasting. In Multimedia Systems 2026.
 
 ## Requirements
 * python==3.10
