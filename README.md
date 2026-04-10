@@ -47,8 +47,7 @@ We provide the evaluation code on the Mocap_UMPM dataset, you can run
 
 On the Mocap_UMPM dataset, batch_size=30;
 On the mupots dataset, batch_size=16;
-On the Mix1 dataset, batch_size=10;
-On the Mix2 dataset, batch_size=10.
+On the Mix1/Mix2 dataset, batch_size=10.
 
 We provide our trained model on Mocap_UMPM, you can download it from [Google Drive](https://drive.google.com/file/d/1UfQVQPFDW8PURsqRnk45loR1uMUi10iF/view?usp=sharing) and put it in logs directory.
 
