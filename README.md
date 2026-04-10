@@ -88,4 +88,5 @@ You can run `python train_long.py` for long-term prediction.
 
 ## Test
 We provide the evaluation code on the Mocap_UMPM dataset, you can run 
-`python test.py`
+`python test_short.py` for short-term prediction.
+You can run `python test_long.py` for long-term prediction.
